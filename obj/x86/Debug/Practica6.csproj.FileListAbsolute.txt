@@ -1,0 +1,6 @@
+C:\Users\Ivette\Documents\SharpDevelop Projects\Practica6\Practica6\bin\Debug\Practica6.exe
+C:\Users\Ivette\Documents\SharpDevelop Projects\Practica6\Practica6\bin\Debug\Practica6.pdb
+C:\Users\Ivette\Documents\SharpDevelop Projects\Practica6\Practica6\obj\x86\Debug\Practica6.csprojResolveAssemblyReference.cache
+C:\Users\Ivette\Documents\SharpDevelop Projects\Practica6\Practica6\obj\x86\Debug\Practica6.exe
+C:\Users\Ivette\Documents\SharpDevelop Projects\Practica6\Practica6\obj\x86\Debug\Practica6.pdb
+C:\Users\Ivette\Documents\SharpDevelop Projects\Practica6\Practica6\bin\Debug\MySql.Data.dll
